@@ -1,4 +1,8 @@
 ## 🏦 Dart Bank Management System
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&logo=dart&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
 
 A simple bank management system built using pure Dart (no Flutter), demonstrating the use of OOP concepts such as classes, inheritance, encapsulation, and lists.
 
@@ -79,6 +83,12 @@ Customer name: Ahmed | ID: C001
   </ul>
 
   ---
+  
+  ### 🧩 Future Improvements
+- Add user login system.
+- Store customer data in JSON.
+- Build a Flutter UI version.
+---
 
   ## 🧑‍💻 Author
   <h1>Mohamed</h1>
